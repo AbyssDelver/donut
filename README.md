@@ -1,6 +1,6 @@
 # donut
 it's a donut! in sfml
-to compile:
+per compilare:
 ```
 cmake -S . -B build/debug -DCMAKE_BUILD_TYPE=Release
 ```
