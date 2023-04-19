@@ -5,6 +5,7 @@ per compilare:
 cmake -S . -B build/debug -DCMAKE_BUILD_TYPE=Release
 ```
 si può anche mettere Debug al posto di Release
+
 poi:
 
 ```
