@@ -9,7 +9,7 @@ si può anche mettere Debug al posto di Release
 poi:
 
 ```
-cmake --build build
+cmake --build build/debug
 ```
 e infine per girare il codice
 
