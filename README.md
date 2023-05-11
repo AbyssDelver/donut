@@ -13,5 +13,5 @@ cmake --build build/debug
 ```
 and to run the code:
 ```
-./build/Donut
+./build/debug/nomefile
 ```
